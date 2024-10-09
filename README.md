@@ -1,4 +1,4 @@
-# Project: Analyzing Sales Performance Drivers and Employee Performance in Furniture Store
+# Analyzing Sales Performance Drivers and Employee Performance in Furniture Store
 
 ## Abstract
 This project presents a comprehensive analysis of sales performance and employee contributions in a furniture and office supplies store. By leveraging data from customers, employees, orders, and products over four years, we identified key factors affecting profitability, including product category performance, discount strategies, employee effectiveness,  customer behavior, and geographical trends. The insights derived inform strategic recommendations aimed at optimizing pricing, enhancing product offerings, refining discount policies, improving employee performance, and targeting high-potential markets to boost overall profitability and sustain growth.
